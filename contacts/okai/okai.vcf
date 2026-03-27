@@ -1,10 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-N:岡井;将洋;;;
+N;CHARSET=UTF-8:岡井;将洋;;;
 FN:岡井 将洋
 
-X-PHONETIC-LAST-NAME:おかい
-X-PHONETIC-FIRST-NAME:まさひろ
+SOUND;X-IRMC-N;CHARSET=UTF-8:おかい;まさひろ;;;
 
 ORG:弁護士法人アステル法律事務所
 TITLE:弁護士・弁理士
