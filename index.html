@@ -1,26 +1,44 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
+
 <meta charset="UTF-8">
 <title>連絡先を追加</title>
-
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<meta http-equiv="refresh" content="0; url=okai.vcf">
+<script>
+
+var ua = navigator.userAgent.toLowerCase();
+
+if (ua.indexOf("line") !== -1) {
+  window.onload = function() {
+    document.getElementById("lineWarning").style.display = "block";
+  }
+} else {
+  window.location.href = "okai.vcf";
+}
+
+</script>
 
 </head>
 
 <body style="font-family:sans-serif;text-align:center;padding:40px;background:#f7f7f7;">
 
-<h2>連絡先を追加しています…</h2>
+<div id="lineWarning" style="display:none;">
 
-<p style="margin-top:20px;line-height:1.6;">
+<h2>連絡先を追加するには</h2>
 
-自動で開かない場合は<br><br>
+<p style="line-height:1.8;margin-top:20px;">
 
-右上メニュー（⋮）から<br>
+LINEのブラウザでは<br>
+連絡先を追加できない場合があります。<br><br>
+
+メニュー（⋮）から<br>
 <strong>「ブラウザで開く」</strong><br>
-を選んでください
+を選んでください。<br><br>
+
+※ボタンが反応しない場合は<br>
+<strong>長押しして開いてください</strong>
 
 </p>
 
@@ -39,6 +57,8 @@ font-size:16px;
 連絡先を追加する
 
 </a>
+
+</div>
 
 </body>
 </html>
