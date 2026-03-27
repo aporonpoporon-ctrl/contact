@@ -3,19 +3,18 @@ VERSION:3.0
 N:岡井;将洋;;;
 FN:岡井 将洋
 
-X-PHONETIC-LAST-NAME:おかい
-X-PHONETIC-FIRST-NAME:まさひろ
+SOUND;X-IRMC-N:おかい;まさひろ;;;
 
 ORG:弁護士法人アステル法律事務所
 TITLE:弁護士・弁理士
 
-TEL;TYPE=CELL,VOICE:096-352-0001
+TEL;TYPE=WORK,VOICE:096-352-0001
 EMAIL;TYPE=INTERNET:okai@aster-law.net
 
 URL;TYPE=WORK:https://www.aster-law.net
 URL;TYPE=WORK:https://www.aster-kotsujiko.net
 
-ADR;TYPE=WORK:;;熊本市中央区花畑町1-1　大樹生命熊本ビル7階;熊本県;860-0806;日本
+ADR;TYPE=WORK:;;花畑町1-1　大樹生命熊本ビル7階;熊本市中央区;熊本県;860-0806;日本
 
 NOTE:お困りごとがある方がいらっしゃいましたら、法律相談の予約をお勧めください。
 
