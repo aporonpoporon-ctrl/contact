@@ -1,1 +1,20 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:松村;真美;;;
+FN:松村 真美
 
+SOUND;X-IRMC-N;CHARSET=UTF-8:まつむら;まさみ;;;
+
+ORG:株式会社 熊日妙見・坂本販売センター
+TITLE:管理部
+
+TEL;TYPE=WORK,VOICE:0965-31-5214
+EMAIL;TYPE=INTERNET:myouken@cma.bbiq.jp
+
+URL;TYPE=WORK:https://kuma-ms.my.canva.site/
+
+ADR;TYPE=WORK:;;八代市宮地町564-1;熊本県;866-0805;日本
+
+NOTE:お気軽にご連絡ください！
+
+END:VCARD
