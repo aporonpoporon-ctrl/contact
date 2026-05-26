@@ -1,20 +1,21 @@
 BEGIN:VCARD
 VERSION:3.0
+N;CHARSET=UTF-8:山本;康介;;;
+FN:山本 康介
 
-FN:山本　康介
-N:山本;康介;;;
+SOUND;X-IRMC-N;CHARSET=UTF-8:やまもと;こうすけ;;;
 
 ORG:ABC株式会社
 TITLE:代表取締役
 
-TEL;TYPE=CELL,VOICE:080-1234-5678
 TEL;TYPE=WORK,VOICE:0965-00-0000
-
+TEL;TYPE=CELL,VOICE:080-1234-5678
 EMAIL;TYPE=INTERNET:abc@sample.com
 
-ADR;TYPE=WORK:;;八代市松江城町1-25;熊本県;866-0862;日本
-
 URL;TYPE=WORK:https://www
+URL;TYPE=WORK:https://www
+
+ADR;TYPE=WORK:;;八代市松江城町1-25;熊本県;866-0862;日本
 
 NOTE:こちらはサンプルです
 
