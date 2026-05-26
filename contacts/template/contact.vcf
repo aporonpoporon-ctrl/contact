@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+
+FN:山本　康介
+N:山本;康介;;;
+
+ORG:ABC株式会社
+TITLE:代表取締役
+
+TEL;TYPE=CELL,VOICE:080-1234-5678
+TEL;TYPE=WORK,VOICE:0965-00-0000
+
+EMAIL;TYPE=INTERNET:abc@sample.com
+
+ADR;TYPE=WORK:;;八代市松江城町1-25;熊本県;866-0862;日本
+
+URL;TYPE=WORK:https://www
+
+NOTE:こちらはサンプルです
+
+END:VCARD
