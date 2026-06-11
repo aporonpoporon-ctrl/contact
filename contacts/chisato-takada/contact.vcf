@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:高田;千里;;;
+FN:高田 千里
+
+SOUND;X-IRMC-N;CHARSET=UTF-8:たかだ;ちさと;;;
+
+ORG:耳つぼサロン　Mellow(メロウ)
+TITLE:オーナー
+
+TEL;TYPE=WORK,VOICE:0965-00-0000
+TEL;TYPE=CELL,VOICE:080-1234-5678
+EMAIL;TYPE=INTERNET:mellow@sample.com
+
+URL;TYPE=WORK:https://www
+
+ADR;TYPE=WORK:;;八代市宮地町564-1;熊本県;866-0805;日本
+
+NOTE:こちらはサンプルです
+
+END:VCARD
