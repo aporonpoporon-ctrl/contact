@@ -1,0 +1,20 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:吉田;富夫;;;
+FN:吉田 富夫
+
+SOUND;X-IRMC-N;CHARSET=UTF-8:よしだ;とみお;;;
+
+ORG:株式会社 熊日妙見・坂本販売センター
+
+TEL;TYPE=WORK,VOICE:0965-31-5214
+TEL;TYPE=CELL,VOICE:080-1234-5678
+EMAIL;TYPE=INTERNET:myouken@cma.bbiq.jp
+
+URL;TYPE=WORK:https://kuma-ms.my.canva.site/
+
+ADR;TYPE=WORK:;;八代市宮地町564-1;熊本県;866-0805;日本
+
+NOTE:お気軽にお問い合わせください！
+
+END:VCARD
