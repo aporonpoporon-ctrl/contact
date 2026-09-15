@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:間垣;泰彦;;;
+FN:間垣 泰彦
+
+SOUND;X-IRMC-N;CHARSET=UTF-8:まがき;やすひこ;;;
+
+ORG:株式会社 熊日妙見・坂本販売センター
+
+TEL;TYPE=WORK,VOICE:0965-00-0000
+TEL;TYPE=CELL,VOICE:080-1234-5678
+EMAIL;TYPE=INTERNET:abc@sample.com
+
+URL;TYPE=WORK:https://www
+URL;TYPE=WORK:https://www
+
+ADR;TYPE=WORK:;;八代市松江城町1-25;熊本県;866-0862;日本
+
+NOTE:こちらはサンプルです
+
+END:VCARD
