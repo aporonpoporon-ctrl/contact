@@ -5,18 +5,15 @@ FN:田嶋 実佳
 
 SOUND;X-IRMC-N;CHARSET=UTF-8:たじま;みか;;;
 
-ORG:ABC株式会社
-TITLE:代表取締役
+ORG:株式会社 熊日妙見・坂本販売センター
+TITLE:営業
 
-TEL;TYPE=WORK,VOICE:0965-00-0000
-TEL;TYPE=CELL,VOICE:080-1234-5678
-EMAIL;TYPE=INTERNET:abc@sample.com
+TEL;TYPE=WORK,VOICE:0965-31-5214
+EMAIL;TYPE=INTERNET:myouken@cma.bbiq.jp
 
-URL;TYPE=WORK:https://www
-URL;TYPE=WORK:https://www
+URL;TYPE=WORK:https://kuma-ms.my.canva.site/
 
-ADR;TYPE=WORK:;;八代市松江城町1-25;熊本県;866-0862;日本
+ADR;TYPE=WORK:;;八代市宮地町564-1;熊本県;866-0805;日本
 
-NOTE:こちらはサンプルです
+NOTE:お気軽にご連絡ください！
 
-END:VCARD
